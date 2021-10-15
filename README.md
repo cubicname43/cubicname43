@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @cubicname43
-- 👀 I’m interested in ... Is this good enuogh github?
-- 🌱 I’m currently learning ... leave me alone
-- 💞️ I’m looking to collaborate on ... no I'm not
-- 📫 How to reach me ... Don't
+- 👀 I’m interested in ... getting my game on steam.
+- 🌱 I’m currently learning ... unity and bolt
+- 📫 How to reach me ... here?
 
 <!---
 cubicname43/cubicname43 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
